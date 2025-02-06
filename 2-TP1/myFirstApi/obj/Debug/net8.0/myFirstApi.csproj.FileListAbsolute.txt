@@ -1,0 +1,99 @@
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\appsettings.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.exe
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.deps.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.runtimeconfig.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfo.cs
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.myFirstApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.build.myFirstApi.props
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.myFirstApi.props
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.myFirstApi.props
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\scopedcss\bundle\myFirstApi.styles.css
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.Up2Date
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\refint\myFirstApi.dll
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.genruntimeconfig.cache
+C:\Users\alfre\source\repos\curso arquitectura de capas\Primera clase\myFirstApi\obj\Debug\net8.0\ref\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\appsettings.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.exe
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.deps.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.runtimeconfig.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfo.cs
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.myFirstApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.build.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\scopedcss\bundle\myFirstApi.styles.css
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.Up2Date
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\refint\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\myFirstApi.genruntimeconfig.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\Primera clase\myFirstApi\obj\Debug\net8.0\ref\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\appsettings.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\myFirstApi.exe
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\myFirstApi.deps.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\myFirstApi.runtimeconfig.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.AssemblyInfo.cs
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.myFirstApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.build.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.myFirstApi.props
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\scopedcss\bundle\myFirstApi.styles.css
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.csproj.Up2Date
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\refint\myFirstApi.dll
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.pdb
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\myFirstApi.genruntimeconfig.cache
+C:\Users\alfre\source\repos\Introduccion Arq Ncapas\TP1\myFirstApi\obj\Debug\net8.0\ref\myFirstApi.dll
