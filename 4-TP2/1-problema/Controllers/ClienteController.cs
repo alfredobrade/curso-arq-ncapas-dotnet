@@ -10,26 +10,34 @@ namespace app_pedidos.Controllers
     [ApiController]
     public class ClienteController : ControllerBase
     {
+        private static HardcodedDB db = new HardcodedDB();
+
         // GET: api/<ClienteController>
         [HttpGet]
         public IEnumerable<Cliente> Get()
         {
-            var db = new HardcodedDB();
-
+            
             return db.Clientes;
         }
 
         // GET api/<ClienteController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Cliente Get(int id)
         {
-            return "value";
+            var cliente = db.Clientes.FirstOrDefault(a => a.ClienteID == id);
+            return cliente;
         }
 
         // POST api/<ClienteController>
         [HttpPost]
         public void Post([FromBody] string value)
         {
+            var cliente = new Cliente
+            {
+                ClienteID = db.Clientes.Count + 1,
+                Nombre = value
+            };
+            db.Clientes.Add(cliente);
         }
 
         // PUT api/<ClienteController>/5
@@ -42,6 +50,11 @@ namespace app_pedidos.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var cliente = db.Clientes.FirstOrDefault(a => a.ClienteID == id);
+            if (cliente != null)
+            {
+                db.Clientes.Remove(cliente);
+            }
         }
     }
 }

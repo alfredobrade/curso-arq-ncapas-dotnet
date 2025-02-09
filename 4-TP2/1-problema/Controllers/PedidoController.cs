@@ -10,18 +10,24 @@ namespace app_pedidos.Controllers
     [ApiController]
     public class PedidoController : ControllerBase
     {
+        private static HardcodedDB db = new HardcodedDB();
+
         // GET: api/<PedidoController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Pedido> Get()
         {
-            return new string[] { "value1", "value2" };
+            var pedidos = db.Pedidos.ToList();
+            // foreach de productos
+            return pedidos;
         }
 
         // GET api/<PedidoController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Pedido Get(int id)
         {
-            return "value";
+            var pedido = db.Pedidos.FirstOrDefault(a => a.PedidoID == id);
+
+            return pedido;
         }
 
         // POST api/<PedidoController>
@@ -29,9 +35,8 @@ namespace app_pedidos.Controllers
         public void Post([FromBody] Pedido nuevoPedido)
         {
             var fechaHora = System.DateTime.Now;
-            var db = new HardcodedDB();
 
-            var cliente = db.Clientes.FirstOrDefault(a => a.ClienteID == nuevoPedido.ClienteID);
+            var cliente = db.Clientes.FirstOrDefault(a => a.ClienteID == nuevoPedido.Cliente.ClienteID);
             var listaProductos = new List<string>();
 
             foreach (var item in nuevoPedido.Productos)
@@ -44,16 +49,20 @@ namespace app_pedidos.Controllers
             }
             if (listaProductos.Count > 0)
             {
+                var pedidoID = db.Pedidos.Count + 1;
+
                 var pedido = new Pedido
                 {
-                    //PedidoID = 0,
+                    PedidoID = pedidoID,
                     FechaHora = fechaHora,
-                    ClienteID = cliente.ClienteID,
-                    ProductosString = listaProductos.ToString()
+                    Cliente = cliente,
+                    Productos = nuevoPedido.Productos,
+                    //ProductosString = listaProductos.ToString()
                 };
 
             }
             //Save pedido
+            db.Pedidos.Add(nuevoPedido);
             // hacer una pequeña introduccion de las formas de guardar la info compuesta
             // puede ser en JSON, en tablas relacionales o un archivo.
 
@@ -70,6 +79,8 @@ namespace app_pedidos.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var pedido = db.Pedidos.FirstOrDefault(a => a.PedidoID == id);
+            db.Pedidos.Remove(pedido);
         }
     }
 }

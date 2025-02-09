@@ -31,6 +31,8 @@ namespace app_pedidos.Controllers
         [HttpPost]
         public void Post([FromBody] Producto producto)
         {
+            var productoID = db.Productos.Count + 1;
+            producto.ProductoID = productoID;
             db.Productos.Add(producto);
         }
 

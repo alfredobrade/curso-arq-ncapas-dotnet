@@ -30,5 +30,19 @@ namespace app_pedidos.DataBase
             },
 
         };
+
+        public List<Pedido> Pedidos = new List<Pedido>
+        {
+            new Pedido
+            {
+                PedidoID = 1,
+                FechaHora = DateTime.Now,
+                Cliente = new Cliente(),
+                Productos = new List<Producto>
+                {
+                    new Producto(),
+                }
+            }
+        };
     }
 }

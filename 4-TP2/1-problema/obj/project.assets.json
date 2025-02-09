@@ -482,19 +482,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alfre\\.nuget\\packages\\": {}
+    "C:\\Users\\alfre\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\ArqCapas.csproj",
+      "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\curso-arquitectura-capas-dotnet\\4-TP2\\1-problema\\ArqCapas.csproj",
       "projectName": "ArqCapas",
-      "projectPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\ArqCapas.csproj",
+      "projectPath": "C:\\Users\\alfre\\source\\repos\\curso-arquitectura-capas-dotnet\\4-TP2\\1-problema\\ArqCapas.csproj",
       "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\obj\\",
+      "outputPath": "C:\\Users\\alfre\\source\\repos\\curso-arquitectura-capas-dotnet\\4-TP2\\1-problema\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -514,7 +519,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -548,7 +559,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

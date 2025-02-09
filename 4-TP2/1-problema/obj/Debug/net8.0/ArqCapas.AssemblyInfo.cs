@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArqCapas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6ba9ceb885ad5f211693f46e91f16dd31958342")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44529f10718f11e135a0537ad15da60c1780f1a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArqCapas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArqCapas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
