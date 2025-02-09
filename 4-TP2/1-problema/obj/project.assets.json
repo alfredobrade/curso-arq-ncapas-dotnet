@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\ArqCapas.csproj",
+      "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\ArqCapas.csproj",
       "projectName": "ArqCapas",
-      "projectPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\ArqCapas.csproj",
+      "projectPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\ArqCapas.csproj",
       "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\obj\\",
+      "outputPath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -514,11 +514,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

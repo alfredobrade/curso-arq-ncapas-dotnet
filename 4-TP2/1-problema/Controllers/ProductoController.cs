@@ -10,12 +10,12 @@ namespace app_pedidos.Controllers
     [ApiController]
     public class ProductoController : ControllerBase
     {
-       
+        private static HardcodedDB db = new HardcodedDB();
+
         // GET: api/<ProductoController>
         [HttpGet]
         public IEnumerable<Producto> Get()
         {
-            var db = new HardcodedDB();
             return db.Productos;
         }
 
@@ -23,20 +23,20 @@ namespace app_pedidos.Controllers
         [HttpGet("{id}")]
         public Producto Get(int id)
         {
-            var db = new HardcodedDB();
 
             return db.Productos.FirstOrDefault(a => a.ProductoID == id);
         }
 
         // POST api/<ProductoController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] Producto producto)
         {
+            db.Productos.Add(producto);
         }
 
         // PUT api/<ProductoController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public void Put(int id, [FromBody] Producto producto)
         {
         }
 
@@ -44,6 +44,12 @@ namespace app_pedidos.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            var producto = db.Productos.FirstOrDefault(a => a.ProductoID == id);
+
+            if (producto != null)
+            {
+                db.Productos.Remove(producto);
+            }
         }
     }
 }

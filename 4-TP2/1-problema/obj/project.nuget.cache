@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrDCxrT9Qo4=",
+  "dgSpecHash": "obJ85UFK3P5A2JjVdPRrbUApeBH/+EV4y5ZafNpRgtBdMGgpOC/EYsIW0YKyIxgAiAS7oSGTIzTELL+NCrb3OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\ArqCapas.csproj",
+  "projectFilePath": "C:\\Users\\alfre\\source\\repos\\Introduccion Arq Ncapas\\4-TP2\\1-problema\\ArqCapas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alfre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
     "C:\\Users\\alfre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
